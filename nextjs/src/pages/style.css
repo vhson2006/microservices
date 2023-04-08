@@ -1,0 +1,12 @@
+#nprogress .spinner {
+  left: 50%;
+  top: 50% !important;
+}
+
+#nprogress .spinner-icon {
+  width: 48px !important;
+  height: 48px !important;
+}
+.ql-editor .ql-align-center img {
+  margin: auto;
+}
